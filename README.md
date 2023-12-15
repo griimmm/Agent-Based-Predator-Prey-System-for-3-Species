@@ -2,4 +2,5 @@
 ## Project done for the course Simulation of complex systems - FFR120
 The repository consists of three programs AgentSystemWithoutMate AgentSystemWithMate and ParameterSearchGA. <br>
 
-
+## Graphs 
+![Screenshot](HuntingMooseRestrainto900.png)
