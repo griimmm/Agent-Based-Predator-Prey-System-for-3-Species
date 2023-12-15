@@ -3,10 +3,10 @@
 The repository consists of three programs AgentSystem and ParameterSearchGA.
 
 ### Requirements
-Python3
-Numpy
-Matplotlib
-IPython
+Python3 <br>
+Numpy <br>
+Matplotlib <br>
+IPython <br>
 
 ## Graphs 
 ![Screenshot](HuntingMooseRestrainto900.png)
